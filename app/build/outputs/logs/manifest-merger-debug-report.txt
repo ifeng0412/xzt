@@ -1,0 +1,137 @@
+-- Merging decision tree log ---
+manifest
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:3:5-37
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:7:5-67
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:7:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:8:5-81
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:8:22-78
+uses-sdk
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:10:5-12:41
+INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:10:5-12:41
+	android:targetSdkVersion
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:12:9-38
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:11:9-34
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+		INJECTED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml
+application
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:14:5-61:19
+	android:label
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:18:9-41
+	android:icon
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:17:9-45
+	android:allowBackup
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:19:9-51
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:15:9-54
+activity#com.haoming.hm_xzt.ui.WelcomeActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:20:9-28:20
+	android:label
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:22:13-45
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:21:13-65
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:23:13-27:29
+action#android.intent.action.MAIN
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:24:17-69
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:24:25-66
+category#android.intent.category.LAUNCHER
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:26:17-77
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:26:27-74
+activity#com.haoming.hm_xzt.app.HomePageActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:29:9-30:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:29:19-51
+activity#com.haoming.hm_xzt.app.MineActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:31:9-32:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:31:19-47
+activity#com.haoming.hm_xzt.app.OtherActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:33:9-34:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:33:19-48
+activity#com.haoming.hm_xzt.app.PublishActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:35:9-36:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:35:19-50
+activity#com.haoming.hm_xzt.app.TypeActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:37:9-38:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:37:19-47
+activity#com.haoming.hm_xzt.app.HomePage_tabhostActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:39:9-40:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:39:19-59
+activity#com.haoming.hm_xzt.app.MypublishActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:41:19-52
+activity#com.haoming.hm_xzt.app.CollectstoreActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:43:9-44:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:43:19-55
+activity#com.haoming.hm_xzt.app.CollectgoodsActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:45:9-46:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:45:19-55
+activity#com.haoming.hm_xzt.app.MyStoreActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:47:9-48:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:47:19-50
+activity#com.haoming.hm_xzt.app.LoginActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:49:9-50:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:49:19-48
+activity#com.haoming.hm_xzt.app.FujinActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:51:19-48
+activity#com.haoming.hm_xzt.app.VIPActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:53:9-54:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:53:19-46
+activity#com.haoming.hm_xzt.app.ShoucangActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:55:9-56:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:55:19-51
+activity#com.haoming.hm_xzt.app.RemenActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:57:9-58:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:57:19-48
+activity#com.haoming.hm_xzt.app.DianpuActivity
+ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:59:9-60:20
+	android:name
+		ADDED from E:\demo\HM_XZT\app\src\main\AndroidManifest.xml:59:19-49

@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mine_tab_items">
+        <item>已发布商品</item>
+        <item>我的店铺</item>
+        <item>关注店铺</item>
+        <item>已收藏商品</item>
+    </string-array>
+    <string-array name="tab_items">
+        <item>主页</item>
+        <item>分类</item>
+        <item>发布</item>
+        <item>个人中心</item>
+        <item>更多</item>
+    </string-array>
+    <color name="edit">#F0EBD8</color>
+    <color name="edit_select">#F7F4EF</color>
+    <color name="home_tab_txt">#999999</color>
+    <color name="home_tab_txt_checked">#FF6D00</color>
+    <color name="loginbutton">#F0EADA</color>
+    <color name="logindown">#FF9566</color>
+    <color name="textcolor">#FF6D00</color>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <drawable name="c_d_transparent">#F2EEE2</drawable>
+    <drawable name="c_d_transparent_press">#F0EADA</drawable>
+    <drawable name="ic_tab_bg">#999999</drawable>
+    <string name="action_settings">Settings</string>
+    <string name="app_name">闲置淘</string>
+    <string name="com_no_content">暂时没有数据</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="login">登  录</string>
+    <string name="more_about">版本更新</string>
+    <string name="more_gengx">意见反馈</string>
+    <string name="more_mail">帮助手册</string>
+    <string name="more_user">关于我们</string>
+    <string name="text">寻找商品</string>
+    <string name="title_activity_update_version">UpdateVersionActivity</string>
+    <string name="xlistview_footer_hint_normal">查看更多</string>
+    <string name="xlistview_footer_hint_ready">松开载入更多</string>
+    <string name="xlistview_header_hint_loading">正在加载更多...</string>
+    <string name="xlistview_header_hint_normal">下拉刷新</string>
+    <string name="xlistview_header_hint_ready">松开刷新数据</string>
+    <string name="xlistview_header_last_time">上次更新时间：</string>
+    <style name="AppBaseTheme" parent="android:Theme.Light">
+        <!--
+            Theme customizations available in newer API levels can go in
+            res/values-vXX/styles.xml, while customizations related to
+            backward-compatibility can go here.
+        -->
+    </style>
+    <style name="AppTheme" parent="AppBaseTheme">
+        <!-- All customizations that are NOT specific to a particular API-level can go here. -->
+    </style>
+    <style name="dot_style">
+        <item name="android:layout_width">5dip</item>
+        <item name="android:layout_height">5dip</item>
+        <item name="android:background">@drawable/dot_normal</item>
+        <item name="android:layout_marginLeft">1.5dip</item>
+        <item name="android:layout_marginRight">1.5dip</item>
+    </style>
+</resources>
